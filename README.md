@@ -1,3 +1,4 @@
+******************************************************\n
 Apereo CAS WAR Overlay Template
 =====================================
 
@@ -227,4 +228,3 @@ that can later be examined. You will find a full list of CAS settings along with
 ```bash
 ./gradlew exportConfigMetadata
 ```                           
-
