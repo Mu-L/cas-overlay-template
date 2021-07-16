@@ -1,4 +1,4 @@
-******************************************************\n
+# WARNING \n******************************************************\nThis repository is always automatically generated from the CAS Initializr.\nTo learn more, please visit the [CAS documentation](https://apereo.github.io/cas).\n\n******************************************************\n
 Apereo CAS WAR Overlay Template
 =====================================
 
@@ -152,6 +152,7 @@ For convenience, an additional `docker-compose.yml` is also provided to orchestr
 ```bash  
 docker-compose build
 ```
+
 
 # CAS Command-line Shell
 
